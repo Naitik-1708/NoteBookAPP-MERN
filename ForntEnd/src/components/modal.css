@@ -1,0 +1,27 @@
+.popup {
+    width: 300px;
+    height: 360px;
+    background-color:rgb(0 0 0 / 82%);
+    border-radius: 10px;
+    top: 110%;
+    left: 81%;
+    position: absolute;
+    text-align: center;
+
+}
+
+.popup h2 {
+    display: inline-block;
+    /* margin-right: 60px; */
+    font-size: 28px;
+    /* padding: 20px;
+     */
+     color: white;
+    margin-right: 38px;
+    padding-top: 10px;
+}
+
+.dispaly{
+    width: 270px;
+    margin: 30px 15px 25px;
+}
